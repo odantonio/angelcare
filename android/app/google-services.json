@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "517984794103",
+    "project_id": "angelcare-project",
+    "storage_bucket": "angelcare-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517984794103:android:45015bf5d06d4ca232aaf2",
+        "android_client_info": {
+          "package_name": "com.example.angelcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517984794103-jttvenalupod3g2d4k39vss56r21s82q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfjrB_WZ3Xd-_isbuGerRX7tx0WtyguiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517984794103-jttvenalupod3g2d4k39vss56r21s82q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517984794103:android:e7c1ff97d2ece91c32aaf2",
+        "android_client_info": {
+          "package_name": "com.example.complete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517984794103-jttvenalupod3g2d4k39vss56r21s82q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfjrB_WZ3Xd-_isbuGerRX7tx0WtyguiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517984794103-jttvenalupod3g2d4k39vss56r21s82q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
